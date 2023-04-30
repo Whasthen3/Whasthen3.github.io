@@ -1,0 +1,13 @@
+.jumbotron {
+    width: 100%;
+    height: 200px;
+    background-image: url("images/jumbotron.jpeg");
+    background-size: cover;
+}
+
+.contentPhoto {
+    width: 100%;
+    height: 350px;
+    background-image: url("images/content.jpeg");
+    background-size: cover;
+}
